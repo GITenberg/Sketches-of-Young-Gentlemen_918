@@ -1,5 +1,5 @@
 _repo: Sketches-of-Young-Gentlemen_918
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Young men -- England'
 - !lcsh 'England -- Social life and customs -- 19th century'
+- GITenberg
 title: Sketches of Young Gentlemen
 url: http://www.gutenberg.org/ebooks/918
